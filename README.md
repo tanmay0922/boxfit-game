@@ -19,6 +19,8 @@ Built with **React**, **TypeScript**, and **react-dnd**, this game serves as a f
 ![image](https://github.com/user-attachments/assets/fc42bf10-5036-4400-ae8f-2ac1e4c2dc34)
 
 ![image](https://github.com/user-attachments/assets/b9f3b791-8731-4af0-a55a-51754b8aee8b)
+![image](https://github.com/user-attachments/assets/e493a124-a303-4843-a5ac-91b8f5251fbc)
+
 
 > *Drop L-shaped items into the shared grid using drag-and-drop.*
 
